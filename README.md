@@ -5,7 +5,6 @@
 
   # Table of Contents
 
-  - [Screenshots](#screenshots)
   - [Installation](#installation)
   - [Technologies](#technologies)
   - [Usage](#usage)
@@ -14,9 +13,6 @@
   - [Contribution](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  
-  ## Screenshots
-  ![screenshot]()
   
 
   ## Installation:
